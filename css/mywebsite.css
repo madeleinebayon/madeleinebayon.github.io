@@ -1,0 +1,31 @@
+.card {
+	padding: 20px;
+}
+
+img{
+	width: 50%;
+	margin-bottom:10px;
+}
+
+p{
+	margin-bottom:1px;
+}
+ .info {
+ 	margin-bottom:50px;
+ }
+
+.placedate{
+	font-size: 13px;
+}
+
+.description{
+	font-style: italic;
+	font-size: 13px;
+}
+
+.col-md-2 {
+	width: 25%
+}
+.col-md-7 {
+	width: 50%
+}
